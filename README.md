@@ -1,6 +1,7 @@
 # amalgamated-samvera
 Tracking repository for project team issues and version controlled documentation
 
+### Add a collapsible Text Block in Markdown
 ```
 ## collapsible markdown?
 
