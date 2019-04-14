@@ -8,6 +8,7 @@ Tracking repository for project team issues and version controlled documentation
 ## collapsible markdown?
 
 <details><summary>CLICK ME</summary>
+
 ### Add the markdown you want to hide here.
 
 Purr for no reason i like fish. Poop in a handbag look delicious and drink 
